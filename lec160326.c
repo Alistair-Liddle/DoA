@@ -145,6 +145,7 @@ some useful sums (Levitin Appendix A, Appendix B goes over recurrence relations)
 Sigma(n)(i=0)i^2 = (n/3)(n+1/2)(n+1)
 Sigma(n)(i=0)(2i+1)=(n+1)^2 (sum of odd numbers)
 Sigma(n)(i=0)1/i=O(logn)
+Sigma(n)(k=0)x^k = (x^(n+1)-1)/(x-1)
 
 The road ahead
 Become familiar with asymptotic analysis as we use it on algorithms
